@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/Administrator/Desktop/project/mytinyrenderer/build",
+  "command": "\"C:/Program Files/mingw64/bin/c++.exe\"   @CMakeFiles/tinyrenderer.dir/includes_CXX.rsp -g   -std=gnu++11 -o CMakeFiles/tinyrenderer.dir/src/geometry.cpp.obj -c C:/Users/Administrator/Desktop/project/mytinyrenderer/src/geometry.cpp",
+  "file": "C:/Users/Administrator/Desktop/project/mytinyrenderer/src/geometry.cpp"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/project/mytinyrenderer/build",
+  "command": "\"C:/Program Files/mingw64/bin/c++.exe\"   @CMakeFiles/tinyrenderer.dir/includes_CXX.rsp -g   -std=gnu++11 -o CMakeFiles/tinyrenderer.dir/src/model.cpp.obj -c C:/Users/Administrator/Desktop/project/mytinyrenderer/src/model.cpp",
+  "file": "C:/Users/Administrator/Desktop/project/mytinyrenderer/src/model.cpp"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/project/mytinyrenderer/build",
+  "command": "\"C:/Program Files/mingw64/bin/c++.exe\"   @CMakeFiles/tinyrenderer.dir/includes_CXX.rsp -g   -std=gnu++11 -o CMakeFiles/tinyrenderer.dir/src/tgaimage.cpp.obj -c C:/Users/Administrator/Desktop/project/mytinyrenderer/src/tgaimage.cpp",
+  "file": "C:/Users/Administrator/Desktop/project/mytinyrenderer/src/tgaimage.cpp"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/project/mytinyrenderer/build",
+  "command": "\"C:/Program Files/mingw64/bin/c++.exe\"   @CMakeFiles/tinyrenderer.dir/includes_CXX.rsp -g   -std=gnu++11 -o CMakeFiles/tinyrenderer.dir/main.cpp.obj -c C:/Users/Administrator/Desktop/project/mytinyrenderer/main.cpp",
+  "file": "C:/Users/Administrator/Desktop/project/mytinyrenderer/main.cpp"
+}
+]
